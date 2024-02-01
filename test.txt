@@ -1,1 +1,2 @@
 This is test file 
+Now this content is written in the local text editor
